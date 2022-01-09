@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script type="text/javascript">
 	$('#myCarousel').carousel({
 	    interval: 3000,
@@ -216,7 +217,7 @@
               <p>Lorem ipsum dolor sit amet. Reprehenderit, qui blanditiis quidem rerum <br>
                 necessitatibus praesentium voluptatum deleniti atque corrupti.</p>
               <a href="#">BUY NOW</a> </div>
-            <div class="col-md-5 col-12 order-md-2 order-1"><img src="../resources/joonzis1.jpg" class="mx-auto" alt="slide"></div>
+            <div class="col-md-5 col-12 order-md-2 order-1"><img src="../resources/images/cat.gif" class="mx-auto" alt="slide"></div>
           </div>
         </div>
       </div>
